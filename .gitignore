@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+venv/
+.env
+
+# Datasets (No subir datos pesados o privados)
+*.csv
+*.xlsx
