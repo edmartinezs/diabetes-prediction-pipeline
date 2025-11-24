@@ -1,10 +1,10 @@
-# 🏥 Diabetes Prediction Pipeline
+# Diabetes Prediction Pipeline
 
 Este proyecto implementa un pipeline de Machine Learning "End-to-End" para la predicción de diabetes, diseñado con un enfoque en **arquitectura funcional**, **tipado estricto** y **fundamentos matemáticos**.
 
 El objetivo principal es demostrar la construcción de flujos de datos robustos sin depender excesivamente de abstracciones automáticas, implementando manualmente la lógica de normalización y limpieza.
 
-## ⚙️ Características Técnicas
+## Características Técnicas
 
 - **Strict Type Hints:** Uso extensivo de `TypeAlias` y anotaciones de tipo para garantizar la integridad de datos entre funciones (`numpy.ndarray`, `pd.DataFrame`).
 - **Preprocesamiento Manual:** Implementación explícita del algoritmo de estandarización Z-Score:
